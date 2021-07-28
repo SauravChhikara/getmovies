@@ -1,1 +1,1 @@
-# Video rental store
+# vidly-mvc-5
